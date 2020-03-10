@@ -10,5 +10,6 @@ package io.github.rbastide.mavenproject12;
  * @author rbastide
  */
 public class NewClass {
+	// commentaire
 	
 }
