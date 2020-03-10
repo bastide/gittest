@@ -11,5 +11,6 @@ package io.github.rbastide.mavenproject12;
  */
 public class NewClass {
 	// commentaire
+	// modif utilisateur 2
 	
 }
